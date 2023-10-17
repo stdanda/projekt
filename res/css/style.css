@@ -45,11 +45,12 @@ html{
     text-align: center;
     display: table;
     margin-left: 70px;
+    color: rgb(133, 133, 133);
     margin-top: 505px;
     background-image: url("./Mira.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    color: rgb(133, 133, 133);
+    
     height: 150px;
     width: 500px;
 
